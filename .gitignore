@@ -1,1 +1,3 @@
-/notes-data*.out*.o
+/notes-data
+*.out
+*.o
